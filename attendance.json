@@ -1,0 +1,53 @@
+{
+    "2025-07-29": {
+        "present": [
+            "Othniel",
+            "Belinda",
+            "Jenevive",
+            "Richfield"
+        ],
+        "absent": [
+            "Phil",
+            "Richard"
+        ]
+    },
+    "2025-07-30": {
+        "present": [
+            "Othniel",
+            "Phil",
+            "Richfield",
+            "Stephen"
+        ],
+        "absent": [
+            "Belinda",
+            "Jenevive",
+            "Richard"
+        ]
+    },
+    "Othniel": {
+        "Names of students": [
+            "Othniel",
+            "Phil"
+        ]
+    },
+    "Phil": {
+        "Names of students": [
+            "Othniel",
+            "Phil"
+        ]
+    },
+    "Belinda": {
+        "Names of Student": [
+            "Belinda"
+        ]
+    },
+    "students": [
+        "Othniel",
+        "Phil",
+        "Belinda",
+        "Jenevive",
+        "Richard",
+        "Richfield",
+        "Stephen"
+    ]
+}
